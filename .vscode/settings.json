@@ -6,6 +6,5 @@
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
     },
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "livePreview.defaultPreviewPath": "/02-Web/exemple-003/dinosaures.html"
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
